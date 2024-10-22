@@ -1,5 +1,3 @@
-# README for TV/Monitor Detection and De-skewing Script
-
 ## Overview
 
 This Python script automates the process of detecting a TV or computer monitor within an image, cropping the screen content, and correcting any perspective distortion (de-skewing). The result is an accurately cropped image that displays only the content of the monitor or TV.
